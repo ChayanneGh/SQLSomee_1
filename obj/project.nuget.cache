@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1gSIJ11Su4=",
+  "success": true,
+  "projectFilePath": "C:\\P4_2026_2\\T_2\\SQLSomee_1.Api\\SQLSomee_1.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chayanne\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Chayanne\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
